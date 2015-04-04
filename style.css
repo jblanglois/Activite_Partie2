@@ -1,4 +1,4 @@
-/*Titre avec police perso, de taille 40px, centré*/
+/*Titre avec polices de taille 40px, centré*/
 h1
 {
 	font-family: "Trebuchet MS", Arial, "Times New Roman";
@@ -6,7 +6,7 @@ h1
 	text-align: center;
 }
 
-/*Titre h2 avec police trebuchet de couleur bleue avec ombre*/
+/*Titre h2 avec polices de couleur bleue avec ombre*/
 h2
 {
 	font-family: "Trebuchet MS", Arial, "Times New Roman";
@@ -15,4 +15,21 @@ h2
 	font-weight: bold;
 	border-left: 15px solid blue;
 	text-shadow: 3px 2px 2px purple;
+}
+
+/*Sous titre avec polices de taille 15px, centré et souligné*/
+.sous_titre
+{
+	font-family: "Trebuchet MS", Arial;
+	font-size: 15px;
+	text-align: center;
+	color: red;
+	border-bottom: 3px solid black;
+}
+
+/*infos, hors date, en taille 18px*/
+li
+{
+	font-family: Arial, "Times New Roman";
+	font-size: 18px;
 }
