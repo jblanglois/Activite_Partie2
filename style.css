@@ -1,0 +1,18 @@
+/*Titre avec police perso, de taille 40px, centré*/
+h1
+{
+	font-family: "Trebuchet MS", Arial, "Times New Roman";
+	font-size: 40px;
+	text-align: center;
+}
+
+/*Titre h2 avec police trebuchet de couleur bleue avec ombre*/
+h2
+{
+	font-family: "Trebuchet MS", Arial, "Times New Roman";
+	color: blue;
+	font-size: 30px;
+	font-weight: bold;
+	border-left: 15px solid blue;
+	text-shadow: 3px 2px 2px purple;
+}
